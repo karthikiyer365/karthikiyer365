@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthikiyer365
 - 👀 I’m interested in Data analysis, statistical anaylysis and prediction, 
-- 🌱 I’m currently in the 3rd of 4 years of my engineering degree with Mumai University
+- 🌱 I have completed my Bachelors in Comupter Engineering with Mumbai University
 - 💞️ I’m looking to collaborate on Data analysis.
 - 📫 How to reach me 📞 - +91 7715911088 📧 - karthikiyer365@gmail.com
 
