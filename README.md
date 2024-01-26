@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @karthikiyer365
-- 👀 I’m interested in Data analysis, statistical anaylysis and prediction, 
-- 🌱 I have completed my Bachelors in Comupter Engineering with Mumbai University
+- 👀 I work in Data Engineering, Statistical Analysis and Storytelling through Data Visualization. 
+- 🌱 B.Eng. in Comupter Engineering
+- 🌱 M.S in Data Analytics
+- ⛓️Check me out at https://karthikiyer365.netlify.app/
 - 💞️ I’m looking to collaborate on Data analysis.
-- 📫 How to reach me 📞 - +1 (202)713-1699📧 - karthikiyer365@gmail.com
+- 📫 Reach me at 📞- +1(202)713-1699 📧- karthikiyer365@gmail.com
+
 
 <!---
 karthikiyer365/karthikiyer365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
