@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @karthikiyer365
-- 👀 I work in Data Engineering, Statistical Analysis and Storytelling through Data Visualization. 
-- 🌱 B.Eng. in Comupter Engineering
-- 🌱 M.S in Data Analytics
-- ⛓️Check me out at https://karthikiyer365.netlify.app/
-- 💞️ I’m looking to collaborate on Data analysis.
-- 📫 Reach me at 📞- +1(202)713-1699 📧- karthikiyer365@gmail.com
+- Hi, I’m @karthikiyer365
+- Proficient in
+  - Database Systems
+  - Data Cleaning and Modeling,
+  - Descriptive Analysis,
+  - Predictive Analysis,
+  - Statistical Inference and
+  - Storytelling through Data Visualization.
+  
+- B.Eng. - Comupter Engineering
+- M.S - Data Analytics
+- Check me out at https://karthikiyer365.netlify.app/
+- Reach me at : +1(202)713-1699 & karthikiyer365@gmail.com
+
+  Open to Internships in Data Analysis, Data Engineering, Data Science, Database Administration, Business Intelligence, Business Analytics roles.
+  
 
 
 <!---
