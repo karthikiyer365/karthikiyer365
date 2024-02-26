@@ -1,6 +1,6 @@
 - Hi, I’m @karthikiyer365
 - Proficient in
-  - Database Systems
+  - Database Systems,
   - Data Cleaning and Modeling,
   - Descriptive Analysis,
   - Predictive Analysis,
