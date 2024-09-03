@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! Nice to see you!<br><br>Welcome to my page.<br>I'm Karthik, Data Analyst extraordinaire....<br>Originally a storyteller, I added math and stat to my tech bucket.<br>So I now tell you the story that the numbers show!!<br><br>I'm currently working on LLM models, so my storyline improves day-by-day.<br>Come on in and take a look at the pages in my book. <br><br>Find some typos or content you wanna know more about? Find me @<br>karthikiyer365@gmail.com<br>
+# 💫 Hi there! Nice to see you!
+Welcome to my page.<br>I'm Karthik, Data Analyst extraordinaire....<br>Originally a storyteller, I added math and stat to my tech bucket.<br>So I now tell you the story that the numbers show!!<br><br>I'm currently working on LLM models, so my storyline improves day-by-day.<br>Come on in and take a look at the pages in my book. <br><br>Find some typos or content you wanna know more about? Find me @<br>karthikiyer365@gmail.com<br>
 
 
 ## 🌐 Socials:
