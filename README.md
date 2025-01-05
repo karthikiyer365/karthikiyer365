@@ -1,7 +1,7 @@
 
-##💫 Hi there! I'm Karthik Iyer aka Kurt!
+## 💫 Hi there! I'm Karthik Iyer aka Kurt!
 
-M.Sc in Data Analyst, Computer Engineer 
+## M.Sc in Data Analyst, Computer Engineer 
 
 <br> Originally a <b>storyteller</b>, I added <b>math and stat</b> to my tech bucket. <br>So <b>I now tell you the story that the numbers show!!</b><br><br> I am a highly analytical and detail-oriented individual knee deep in Research and specializing in Dashboarding and Visulizations. I'm currently working on LLM models, so my storyline improves day-by-day. My expertize in Statistical Analysis, Machine Learning, Natural Language Processing and Image Processing enables me to drive forward technological advancements and contribute to pioneering data-driven solutions across various sectors.<br>Come on in and take a look at the pages in my book. <br><br>Find some content you want to know more about? Find me @<br>karthikiyer365@gmail.com<br>
 
