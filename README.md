@@ -1,6 +1,10 @@
-# 💫 Hi there! Nice to see you!
-Welcome to my page.<br>I'm Karthik, **Computer Engineer, M.Sc in Data Analyst** <br> Originally a **storyteller**, I added **math and stat** to my tech bucket. <br>So **I now tell you the story that the numbers show**!!<br><br> I specialize in Dashboarding and Visulizations. I am a highly analytical individual and detail-oriented individual with a strong knack for Research & Development. I'm currently working on LLM models, so my storyline improves day-by-day. My expertize in Statistical Analysis, Machine Learning(Regression Analysis), Natural Language Processing and Image Processing enables me to drive forward technological advancements and contribute to pioneering data-driven solutions across various sectors.<br>Come on in and take a look at the pages in my book. <br><br>Find some content you want to know more about? Find me @<br>karthikiyer365@gmail.com<br>
-
+<p align="center">
+  # 💫 Hi there! I'm Karthik Iyer aka Kurt!
+</p>
+<p align="center"> 
+  M.Sc in Data Analyst, Computer Engineer 
+</p>
+<br> Originally a **storyteller**, I added **math and stat** to my tech bucket. <br>So **I now tell you the story that the numbers show!!**<br><br> I am a highly analytical and detail-oriented individual knee deep in Research and specializing in Dashboarding and Visulizations. I'm currently working on LLM models, so my storyline improves day-by-day. My expertize in Statistical Analysis, Machine Learning, Natural Language Processing and Image Processing enables me to drive forward technological advancements and contribute to pioneering data-driven solutions across various sectors.<br>Come on in and take a look at the pages in my book. <br><br>Find some content you want to know more about? Find me @<br>karthikiyer365@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyer.karthik00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiyer8) 
