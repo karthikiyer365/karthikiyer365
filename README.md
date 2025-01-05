@@ -1,5 +1,5 @@
 # 💫 Hi there! Nice to see you!
-Welcome to my page.<br>I'm Karthik, **Data Analyst extraordinaire**....<br>Originally a **storyteller**, I added **math and stat** to my tech bucket.<br>So **I now tell you the story that the numbers show**!!<br><br>I'm currently working on LLM models, so my storyline improves day-by-day.<br>Come on in and take a look at the pages in my book. <br><br>Find some typos or content you wanna know more about? Find me @<br>karthikiyer365@gmail.com<br>
+Welcome to my page.<br>I'm Karthik, **Computer Engineer, M.Sc in Data Analyst** <br> Originally a **storyteller**, I added **math and stat** to my tech bucket. <br>So **I now tell you the story that the numbers show**!!<br><br> I specialize in Dashboarding and Visulizations. I am a highly analytical individual and detail-oriented individual with a strong knack for Research & Development. I'm currently working on LLM models, so my storyline improves day-by-day. My expertize in Statistical Analysis, Machine Learning(Regression Analysis), Natural Language Processing and Image Processing enables me to drive forward technological advancements and contribute to pioneering data-driven solutions across various sectors.<br>Come on in and take a look at the pages in my book. <br><br>Find some content you want to know more about? Find me @<br>karthikiyer365@gmail.com<br>
 
 
 ## 🌐 Socials:
