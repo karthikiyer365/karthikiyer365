@@ -1,27 +1,170 @@
+# Hi there, I'm KSI 👋
+### Data Analytics Graduate | Machine Learning + AI Engineering
 
-## Namaste, I'm Karthik Iyer!
-The rest of this document show my dev work but https://karthikiyer.info is closer to my personality
-### M.Sc Data Analyst, B.Engg Computer Science 
-
-<br> Originally a <b>storyteller</b>, I added <b>math and stat</b> to my tech bucket. <br>So <b>I now tell you the story that the numbers show!!</b><br><br> I am a highly analytical and detail-oriented individual knee deep in Research and specializing in Dashboarding and Visualizations. I'm currently working on LLM models, so my storyline improves day-by-day. My expertize in Statistical Analysis, Machine Learning, Natural Language Processing and Image Processing enables me to drive forward technological advancements and contribute to pioneering data-driven solutions across various sectors.<br>Come on in and take a look at the pages in my book. <br><br>Find some content you want to know more about? Find me @<br>karthikiyer365@gmail.com<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iyer.karthik00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiyer8) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikiyer365&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthikiyer365&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikiyer365&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikiyer365&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[Portfolio](https://karthikiyer.info) · [LinkedIn](https://linkedin.com/in/kiyer8) · [GitHub](https://github.com/karthikiyer365) · [Email](mailto:karthikiyer365@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karthikiyer365&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+AI Engineer and Data Analyst with 2+ years putting AI to work for Operations, Sales and Finance teams to support data-driven decisions.
+
+I integrate siloed business systems across CRM, finance, workforce and project management into a unified, ERP-style data layer, simplifying the data architecture that agentic AI automations and workflows run on.
+
+Skilled in Python, SQL, data modeling, LLM evaluation, workflow design and cross-functional collaboration. I enjoy turning fragmented data and complex business processes into reliable systems people can actually use.
+
+## Core Competencies
+
+| Machine Learning | AI Engineering | Data Analytics |
+|---|---|---|
+| Predictive Modeling | LLM Evaluation | Exploratory Data Analysis |
+| Feature Engineering | RAG & Vector Databases | SQL & Data Modeling |
+| Statistical Learning | Agentic Workflows | Dashboards & Visualization |
+| Model Evaluation | API & System Integration | Business Intelligence |
+
+---
+
+## Languages
+
+<!-- Automatically reflects the languages detected in your public repositories. -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikiyer365&layout=compact&theme=transparent&hide_border=true&langs_count=10)
+
+**Core tools and technologies**
+
+`Python` · `SQL` · `Jupyter Notebook` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+
+*Language percentages are generated from GitHub repository data. Jupyter notebooks are generally counted by their underlying language, and React is a framework rather than a separate programming language.*
+
+---
+
+## Featured Engineering Projects
+
+*Projects organized around the problems they solve, not just the technologies used.*
+
+### 01. End-to-End Applications & Data Systems
+
+#### [Project Name] | Business Workflow Automation
+> Problem: Disconnected business systems create manual work, inconsistent records and fragmented reporting.
+
+- **Architecture:** [Source systems → ETL/API integrations → unified data layer → application or AI workflow]
+- **Tech Stack:** [Python, SQL, APIs, Docker, cloud services, etc.]
+- **Learning Takeaway:** [What you learned about system integration, reliability, scalability or workflow design.]
+- **Repository:** [GitHub link] · [Live Demo]
+
+#### [Project Name] | Full-Stack Data Application
+> Problem: [Describe the user or business problem this application solves.]
+
+- **Architecture:** [Frontend → backend/API → database → analytics or AI layer]
+- **Tech Stack:** [TypeScript, React, Next.js, Python, database, etc.]
+- **Learning Takeaway:** [Key engineering decision or lesson.]
+- **Repository:** [GitHub link] · [Live Demo]
+
+### 02. Data Analytics & Business Intelligence
+
+#### Government Employee Salary Analysis | Public-Sector Compensation Analytics
+> Problem: Understanding salary distributions and compensation patterns in government employment data.
+
+- **Architecture:** Raw public data → cleaning and transformation → exploratory analysis → visual insights.
+- **Tech Stack:** Python, Pandas, Jupyter Notebook, [visualization tools].
+- **Learning Takeaway:** [Key finding, analytical method or data-quality lesson.]
+- **Repository:** [Government Employee Salary Analysis](https://github.com/karthikiyer365/Government-Employee-Salary-Analysis)
+
+#### [Project Name] | Customer Sentiment & Review Analytics
+> Problem: Extracting actionable insights from large volumes of unstructured customer reviews.
+
+- **Architecture:** Review data → text preprocessing → sentiment analysis → aggregated insights and visualizations.
+- **Tech Stack:** Python, SQL, NLP, Pandas, [visualization tools].
+- **Learning Takeaway:** [What the analysis revealed and how you validated the results.]
+- **Repository:** [GitHub link] · [Dashboard]
+
+### 03. Machine Learning & AI Engineering
+
+#### [Project Name] | Intelligent Ticket Classification
+> Problem: Categorizing incoming requests consistently to improve routing and reduce manual triage.
+
+- **Architecture:** Labeled data → text preprocessing → baseline classifier → evaluation and error analysis.
+- **Tech Stack:** Python, scikit-learn, TF-IDF, Logistic Regression, [evaluation tools].
+- **Learning Takeaway:** How label quality, taxonomy design and evaluation methodology can matter more than simply tuning a model.
+- **Repository:** [GitHub link] · [Technical Write-up]
+
+#### [Project Name] | Human Activity Recognition
+> Problem: Identifying human activities from physiological or sensor measurements.
+
+- **Architecture:** Sensor data → preprocessing → feature engineering → model training → evaluation.
+- **Tech Stack:** Python, Pandas, NumPy, scikit-learn, [deep-learning libraries].
+- **Learning Takeaway:** [Key lesson about feature selection, generalization or model evaluation.]
+- **Repository:** [GitHub link]
+
+### 04. Sports Analytics
+
+#### SportSignal | Football Scouting & Player Discovery
+> Problem: Making football data more useful for player evaluation, scouting and recruitment decisions.
+
+- **Architecture:** Football data → player and team metrics → comparative analysis → scouting insights.
+- **Tech Stack:** Python, Pandas, [football data APIs], [visualization tools].
+- **Learning Takeaway:** Translating raw performance statistics into contextual insights that support recruitment decisions.
+- **Repository:** [SportSignal](https://github.com/karthikiyer365/SportSignal)
+
+#### [Project Name] | Football Performance & Tactical Analytics
+> Problem: Evaluating player contributions and team performance beyond headline statistics.
+
+- **Architecture:** Match-event data → feature engineering → performance metrics → tactical or player-level analysis.
+- **Tech Stack:** Python, SQL, Pandas, [SPADL/VAEP or other methods], [visualization tools].
+- **Learning Takeaway:** [Lesson about contextual metrics, tactical interpretation or model validation.]
+- **Repository:** [GitHub link] · [Dashboard]
+
+---
+
+## Professional Experience
+
+### RestoreFast Operations LLC
+**Data Systems Engineer | AI Developer & ETL Engineer**  
+*June 2025 – July 2026 | North Bethesda, Maryland*
+
+- Integrated operational data across CRM, finance, project management and workforce systems to improve data consistency and reporting.
+- Built retrieval and ETL workflows connecting Gmail and Google Drive meeting notes to a vector database using Gemini embeddings and LangChain.
+- Developed and maintained data pipelines processing 500K+ records per month, with a focus on synchronization accuracy, deduplication and reliability.
+- Applied AI-assisted workflows and system integrations to reduce manual work and improve operational visibility.
+- Collaborated across business and technical teams to translate operational needs into maintainable data systems.
+
+**Technologies:** Python · SQL · ETL · RAG · LangChain · Gemini · Pinecone · Docker · GitHub Actions · Power BI
+
+### DPSY & Associates
+**Financial Analysis Intern**  
+*April 2023 – June 2023 | Mumbai, India*
+
+- Analyzed multi-million-dollar sales datasets using time-series forecasting to support business planning and revenue opportunities.
+- Reconciled CRM data using SQL, saving 50+ hours of manual effort.
+- Developed Tableau and Excel dashboards to improve reporting across three accounts.
+
+**Technologies:** SQL · Python · Time-Series Analysis · Tableau · Excel
+
+---
+
+## Education
+
+**M.S. in Data Analytics**  
+The George Washington University | May 2025  
+GPA: 3.68/4.00
+
+**B.E. in Computer Engineering**  
+University of Mumbai | May 2022
+
+---
+
+## Beyond the Code
+
+I started as a storyteller and added mathematics, statistics and engineering to the toolkit.
+
+I still approach data the same way: understand the problem, question the assumptions, build something useful, and tell the story the results actually support.
+
+- 🌐 **Portfolio:** [karthikiyer.info](https://karthikiyer.info)
+- ⚽ **Interests:** Football analytics, player recruitment and performance modeling
+- 🤖 **Currently exploring:** LLM evaluation, agentic systems and reliable AI workflows
+
+### Let's Connect
+
+[LinkedIn](https://linkedin.com/in/kiyer8) · [GitHub](https://github.com/karthikiyer365) · [Email](mailto:karthikiyer365@gmail.com)
+
+*Interested in building data systems and AI applications that solve real operational problems.*
