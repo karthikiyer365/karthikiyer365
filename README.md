@@ -1,20 +1,20 @@
 ## Hi there, I'm KSI 👋
-#### M.Sc Data Analytics - Machine Learning + AI Engineering
+### M.Sc Data Analytics - Machine Learning + AI Engineering
 [Portfolio](https://karthikiyer.info) · [LinkedIn](https://linkedin.com/in/kiyer8) · [GitHub](https://github.com/karthikiyer365) · [Email](mailto:karthikiyer365@gmail.com)
 
 ---
 
-## About Me
+### About Me
 
 AI Engineer and Data Analyst with 2+ years putting AI to work for Operations, Sales and Finance teams to support data-driven decisions. I integrate siloed business systems across CRM, finance, workforce and project management into a unified, ERP-style data layer, simplifying the data architecture that agentic AI automations and workflows run on. Skilled in Python, SQL, data modeling, LLM evaluation, workflow design and cross-functional collaboration. I enjoy turning fragmented data and complex business processes into reliable systems people can actually use.
 
-## Languages
+### Languages
 
 <!-- Automatically reflects the languages detected in your public repositories. -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikiyer365&layout=compact&theme=transparent&hide_border=true&langs_count=10)
 
-## Core Competencies
+### Core Competencies
 
 | Machine Learning | AI Engineering | Data Analytics |
 |---|---|---|
@@ -25,7 +25,7 @@ AI Engineer and Data Analyst with 2+ years putting AI to work for Operations, Sa
 
 ---
 
-## Featured Engineering Projects
+### Featured Engineering Projects
 
 *Projects organized around the problems they solve, not just the technologies used.*
 
