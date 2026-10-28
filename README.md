@@ -1,6 +1,5 @@
-# Hi there, I'm KSI 👋
-### Data Analytics Graduate | Machine Learning + AI Engineering
-
+## Hi there, I'm KSI 👋
+#### M.Sc Data Analytics - Machine Learning + AI Engineering
 [Portfolio](https://karthikiyer.info) · [LinkedIn](https://linkedin.com/in/kiyer8) · [GitHub](https://github.com/karthikiyer365) · [Email](mailto:karthikiyer365@gmail.com)
 
 ---
