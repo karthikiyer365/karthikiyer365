@@ -7,11 +7,7 @@
 
 ## About Me
 
-AI Engineer and Data Analyst with 2+ years putting AI to work for Operations, Sales and Finance teams to support data-driven decisions.
-
-I integrate siloed business systems across CRM, finance, workforce and project management into a unified, ERP-style data layer, simplifying the data architecture that agentic AI automations and workflows run on.
-
-Skilled in Python, SQL, data modeling, LLM evaluation, workflow design and cross-functional collaboration. I enjoy turning fragmented data and complex business processes into reliable systems people can actually use.
+AI Engineer and Data Analyst with 2+ years putting AI to work for Operations, Sales and Finance teams to support data-driven decisions. I integrate siloed business systems across CRM, finance, workforce and project management into a unified, ERP-style data layer, simplifying the data architecture that agentic AI automations and workflows run on. Skilled in Python, SQL, data modeling, LLM evaluation, workflow design and cross-functional collaboration. I enjoy turning fragmented data and complex business processes into reliable systems people can actually use.
 
 ## Core Competencies
 
